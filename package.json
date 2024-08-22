@@ -1,7 +1,7 @@
 {
   "scripts": {
     "lint": "html-validator ./*.html",
-    "test": "ecj"
+    "test": "echo"
   },
   "devDependencies": {
     "w3c-html-validator": "^1.8.2"
